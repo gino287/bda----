@@ -1,0 +1,12 @@
+# 環境變數（含資料庫密碼）— 絕對不上傳
+.env
+
+# 中間產出檔案
+articles_raw.csv
+articles_labeled.csv
+vectors.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
