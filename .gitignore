@@ -4,7 +4,9 @@
 # 中間產出檔案
 articles_raw.csv
 articles_labeled.csv
-vectors.pkl
+*.pkl
+*.npz
+*.npy
 
 # Python
 __pycache__/
